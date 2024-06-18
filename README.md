@@ -1,8 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Simple quiz App based on React.js
 
-Currently, two official plugins are available:
+Utilized TMDB API to fetch movie data such as title, overview, poster, and release dates.
+Implemented search functionality to allow users to search for specific movies.
+Used ReactJS for building components and managing state throughout the application. Implemented routing to navigate between different pages within the application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# deployment Link : https://rjquizapp.netlify.app/
